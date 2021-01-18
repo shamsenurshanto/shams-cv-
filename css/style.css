@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+  font-family: 'Ubuntu', sans-serif;
+   font-size: 1.1rem;
+   
+}
+
+  h1{
+    color: #66bfbf;
+  }
+hr {
+  height: 0px;
+  border-style: dotted none none;
+  border-width: 4px;
+  border-color: grey;
+  width: 60%;
+  padding: 4px 0px ;
+ 
+ 
+}
+.img{
+  width: 280px;
+  padding: 5px;
+  position: relative;
+  right: 10px;
+}
+.all{
+  position: relative;
+  width: 90%;
+  left: 230px;
+  
+}
